@@ -1,0 +1,143 @@
+@charset "utf-8";
+.tu1{
+	background-image: url(../images/ruichang.jpg);
+	width: 635px;
+	height: 325px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.zi1{
+	color: #37AAEF;
+	font-weight: bold;
+	font-size: 68px;
+	float: left;
+	position: relative;
+	left: 648px;
+	bottom: 292px;
+	z-index: 2;
+}
+.zi2{
+	position: relative;
+	left: 648px;
+	width: 532px;
+	bottom: 283px;
+	background-color: rgba(138,197,231,1.00);
+	z-index: 1;
+}
+.tu2{
+	background-image: url(../images/yizhong_new.JPG);
+	width: 546px;
+	height: 323px;
+	position: absolute;
+	bottom: -33px;
+	z-index: 5;
+}
+.zi3{
+	font-size: 44px;
+	font-family: "幼圆";
+	color: rgba(107,219,134,1.00);
+	font-weight: bold;
+	position: relative;
+	left: 562px;z-index: 5;
+}
+.zi4{
+	position: relative;
+	left: 579px;
+	width: 532px;
+	bottom: 14px;
+	background-color: rgba(138,197,231,1.00);
+	z-index: 5;
+	top: 39px;
+	font-size: 26px;
+}
+.tu3{
+	background-image: url(../images/guangchang_new.JPG);
+	width: 546px;
+	height: 423px;
+	position: absolute;
+	bottom: -33px;
+	top: 771px;z-index: 5;
+}
+.zi5{
+	font-size: 44px;
+	font-family: "幼圆";
+	color: rgba(107,219,134,1.00);
+	font-weight: bold;
+	position: relative;
+	left: 562px;z-index: 5;
+}
+.zi6{
+	position: relative;
+	left: 566px;
+	width: 532px;
+	bottom: 14px;
+	background-color: rgba(138,197,231,1.00);
+	z-index: 5;
+	top: 75px;
+	font-size: 26px;
+}
+.tu4{
+	background-image: url(../images/gongyuan_new.JPG);
+	width: 546px;
+	height: 423px;
+	position: absolute;
+	bottom: -33px;
+	top: 1230px;z-index: 5;
+}
+.tu5{
+	background-image: url(../images/background.JPG);
+	height: 1796px;
+	/* [disabled]top: 0px; */
+	bottom: 600px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.zi7{
+	font-size: 44px;
+	font-family: "幼圆";
+	color: rgba(107,219,134,1.00);
+	font-weight: bold;
+	position: relative;
+	left: 579px;
+	z-index: 5;
+	top: 33px;
+}
+.zi8{
+	position: relative;
+	left: 566px;
+	width: 532px;
+	bottom: 14px;
+	background-color: rgba(138,197,231,1.00);
+	z-index: 5;
+	top: 75px;
+	font-size: 26px;
+}
+.zi9{
+	font-size: 26px;
+	position: relative;
+	z-index: 9;
+	float: right;
+	bottom: 557px;
+	right: 77px;
+	color: rgba(244,201,39,1.00);
+	background-color: rgba(231,227,120,0.4);
+}
+ul{
+	list-style-type: none;	
+}
+ul li a {
+	text-decoration: none;
+}
+ul li a:link {
+	color: rgba(243,160,41,1.00)
+}
+ul li a:hover {
+	color:rgba(57,226,79,1.00);
+}
+ul li a:visited {
+	color: rgba(243,160,41,1.00);
+}
