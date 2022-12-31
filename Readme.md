@@ -5,5 +5,5 @@
 - [project of hardware system](https://github.com/BankOfMeZ/project-of-hardware-system)
 - [computer telecommunications and network experiments](https://github.com/BankOfMeZ/computer-telecommunications-and-network-experiments)
 - [software engineering](https://gitee.com/zhou-shuaijun/software-engineering)
-- [operating system experiments](https://github.com/BankOfMeZ/operating-system-experiments)
+- [operating system experiments](https://github.com/BankOfMeZ/operating-system-experiment/tree/main)
 - [database experiment](https://github.com/BankOfMeZ/database-experiment)
